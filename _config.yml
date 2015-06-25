@@ -11,19 +11,19 @@ url:
 owner:
   name:           Faith Tan
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  bio:            "I am Rubyist"
   email:          faithtan712@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
+  twitter:       Tanybseven 
+  facebook:      Tanybseven 
+  github:        faithtan
   stackexchange:  
   linkedin:       
   instagram:      
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
+  google_plus:    +102198667241828440579
 
 # Background image to be tiled on all pages
 background: 
